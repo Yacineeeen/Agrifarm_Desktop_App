@@ -47,3 +47,10 @@ AgriFarm goes beyond basic management with advanced tools designed to improve pr
 ✅ Designed with scalability and real-world farming challenges in mind
 
 Give your agricultural business the smart edge it deserves with AgriFarm – where technology meets tradition.
+## 🖼️ Project Screenshots
+
+### 📊 Dashboard View
+![Screenshot 2025-06-10 004949](https://github.com/user-attachments/assets/269901ca-c252-4e5f-bd8e-f808afaa1886)
+![Screenshot 2025-06-10 005644](https://github.com/user-attachments/assets/b2f4e7e9-1056-4185-b969-e6e20a88bb9d)
+![Screenshot 2025-06-10 005558](https://github.com/user-attachments/assets/d0b68440-fab2-439c-9004-1f9c9bd8631c)
+![Screenshot 2025-06-10 005457](https://github.com/user-attachments/assets/00811ae4-d5ce-4c9a-95b1-0b66f113ad7d)
